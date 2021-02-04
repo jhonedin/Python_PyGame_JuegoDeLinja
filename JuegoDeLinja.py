@@ -4,13 +4,13 @@
 '''
 * Integrante 1:
 * **** Nombre: Javier Simón Naranjo Herrera
-* **** Código: 201255229
+* 
 * Integrante 2: 
 * **** Nombre: Jhon Edinsón Blandón Quintero
-* **** Código: 201255414
+* 
 * Integrante 3: 
 * **** Nombre: Álvaro Andrés Loaiza Duque
-* **** Código: 201355982
+* 
 * Archivo 
 * **** Nombre: Linja.py
 * **** fecha de creación: 03/Mayo/2016
